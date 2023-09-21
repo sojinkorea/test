@@ -1,0 +1,11 @@
+some.html
+*.jpg
+
+# temp폴더 무시
+temp 
+
+# temp.jpg빼고 무시
+temp/temp.jpg
+
+# temp만 인식
+!temp
